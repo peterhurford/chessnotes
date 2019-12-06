@@ -5,6 +5,7 @@
 * Try not to move the same piece twice.
 * Try to castle as soon as possible. Before move 7-10.
 * Goal of opening to connect rooks.
+* Generally, develop Knights before Bishops.
 
 ## Midgame
 
@@ -21,3 +22,9 @@
 * Doubled pawns - Two pawns in the same file.
 * Isolated pawns - Pawn with no other pawn in an adjacent file. (Can't be supported.)
 * Backwards pawns - Pawn behind other pawns that cannot be safely advanced.
+
+## End game
+
+* Passed pawn - Pawn aiming for promotion that has passed most enemy pieces
+* Active King
+* King on 6th in front of Pawn on 5th is a winning combination for White.
